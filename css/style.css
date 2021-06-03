@@ -1312,13 +1312,13 @@ body {
 }
 @media (max-width: 991px) {
   .site-footer {
-    margin-top: 500px;
+    margin-top: 400px;
     height: 126px;
   }
 }
 @media (max-width: 767px) {
   .site-footer {
-    margin-top: 500px;
+    margin-top: 400px;
     height: 91px;
     position: relative;
   }
